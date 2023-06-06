@@ -3,154 +3,154 @@
 		{
 		    "questions" : [
 		        {
-		            "question" : "In what children's game are participants chased by someone designated \"It\"?",
+		            "question" : "Con gì mang được cả miếng gỗ lớn nhưng lại không mang được hòn sỏi nhỏ?",
 		            "content" : [
-		                "Tag",
-		                "Simon Says",
-		                "Charades",
-		                "Hopscotch"
+		                "Con sông",
+		                "Con người",
+		                "Con gấu",
+		                "Con tàu"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "On a radio, stations are changed by using what control?",
+		            "question" : "Bỏ ngoài nướng trong, ăn ngoài bỏ trong là gì?",
 		            "content" : [
-		                "Tuning",
-		                "Volume",
-		                "Bass",
-		                "Treble"
+		                "Bắp ngô",
+		                "khoai lang",
+		                "Chuối",
+		                "Cam"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "Which material is most dense?",
+		            "question" : "Có một tàu điện đi về hướng nam. Gió hướng tây bắc. Vậy khói từ con tàu sẽ theo hướng nào?",
 		            "content" : [
-		                "Silver",
-		                "Styrofoam",
-		                "Butter",
-		                "Gold"
+		                "Hướng Nam",
+		                "Hướng Bắc",
+		                "Hướng Đông",
+		                "Tàu điện không có khói"
 		            ],
 		            "correct" : 3
 		        },
 		        {
-		            "question" : "Which state in the United States is largest by area?",
+		            "question" : "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rằm. Hỏi chết mấy con?",
 		            "content" : [
-		                "Alaska",
-		                "California",
-		                "Texas",
-		                "Hawaii"
+		                "15",
+		                "14",
+		                "41",
+		                "51"
 		            ],
 		            "correct" : 0
 		        },
 		        {
-		            "question" : "What is Aurora Borealis commonly known as?",
+		            "question" : "Hai người đào trong hai giờ thì được một cái hố. Vậy hỏi một người đào trong một giờ thì được mấy cái hố?",
 		            "content" : [
-		                "Fairy Dust",
-		                "Northern Lights",
-		                "Book of ages",
-		                "a Game of Thrones main character"
+		                "2 hố",
+		                "1 hố",
+		                "0 hố",
+		                "Nhiều hố"
 		            ],
 		            "correct" : 1
 		        },
 				{
 				    "correct": 3,
 				    "content": [
-				        "developed the telescope",
-				        "discovered four satellites of Jupiter",
-				        "discovered that the movement of pendulum produces a regular time measurement",
-				        "All of the above"
+				        "Vào goal",
+				        "Vào góc goal",
+				        "Vào thủ môn",
+				        "Vào bóng"
 				    ],
-				    "question": "Galileo was an Italian astronomer who"
+				    "question": "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "the infrared light kills bacteria in the body",
-				        "resistance power increases",
-				        "the pigment cells in the skin get stimulated and produce a healthy tan",
-				        "the ultraviolet rays convert skin oil into Vitamin D"
+				        "Bạn bè",
+				        "Cái ô",
+				        "Cái giày",
+				        "Cái bóng"
 				    ],
-				    "question": "Exposure to sunlight helps a person improve his health because"
+				    "question": "Nắng ba năm ta chưa hề bỏ bạn? Mưa một ngày bạn lỡ nào bỏ tôi?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "a club or a local sport association for remarkable achievements",
-				        "amateur athlete, not necessarily an Olympian",
-				        "National Olympic Committee for outstanding work",
-				        "None of the above"
+				        "73",
+				        "37",
+				        "89",
+				        "98"
 				    ],
-				    "question": "Sir Thomas Fearnley Cup is awarded to"
+				    "question": "Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi và tại sao bà ấy chết?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "1968",
-				        "1929",
-				        "1901",
-				        "1965"
+				        "Ăn cơm",
+				        "Mở mắt",
+				        "Đánh răng",
+				        "Ngáp ngủ"
 				    ],
-				    "question": "Oscar Awards were instituted in"
+				    "question": "Bạn làm việc gì đầu tiên mỗi buổi sáng?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1998",
-				        "1989",
-				        "1979",
-				        "1800"
+				        "25",
+				        "60",
+				        "70",
+				        "45"
 				    ],
-				    "question": "When did Margaret Thatcher became the first female Prime Minister of Britain?"
+				    "question": "30 chia 1/2 và cộng thêm 10, bằng bao nhiêu?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "15th April",
-				        "12th December",
-				        "1st May",
-				        "1st August"
+				        "Con Chuột",
+				        "Con Chim",
+				        "Con Người",
+				        "Con rắn"
 				    ],
-				    "question": "When is the International Workers' Day?"
+				    "question": "Sở thú bị cháy, con gì chạy ra đầu tiên?"
 				},
 				{
 				    "correct": 2,
 				    "content": [
-				        "1962",
-				        "1963",
-				        "1964",
-				        "1965"
+				        "Bàn cãi",
+				        "Mâu thuẫn",
+				        "Đánh cờ",
+				        "Đánh nhau"
 				    ],
-				    "question": "When did China test their first atomic device?"
+				    "question": "Tại sao 30 người đàn ông và 2 người đàn bà đánh nhau tán loạn?"
 				},
 				{
 				    "correct": 3,
 				    "content": [
-				        "1904",
-				        "1905",
-				        "1908",
-				        "1909"
+				        "Gỗ",
+				        "Keo",
+				        "Nhựa",
+				        "Than"
 				    ],
-				    "question": "When did Commander Robert Peary discover the North Pole?"
+				    "question": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?"
 				},
 				{
 				    "correct": 0,
 				    "content": [
-				        "819/sq. km",
-				        "602/sq. km",
-				        "415/sq. km",
-				        "500/sq. km"
+				        "CO2",
+				        "H2O",
+				        "H2Cl",
+				        "CO2H"
 				    ],
-				    "question": "What is the population density of Kerala?"
+				    "question": "Thành phần chính trong bầu khí quyển của Sao Hỏa là khí ….."
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "4 km",
-				        "25 km",
-				        "500 m to 9 km",
-				        "150 km"
+				        "O2",
+				        "H2O2",
+				        "O3",
+				        "H2O"
 				    ],
-				    "question": "What is the range of missile 'Akash'?"
+				    "question": "Công thức hoá học của Oxi già là gì ?"
 				}
 		    ]
 		}
