@@ -56,10 +56,10 @@
 		            "correct" : 1
 		        },
 			]
-}
-,
-{
-	"questions" : [
+		},
+
+		{
+			"questions" : [
 		        {
 				    "question": "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?"
 				    "content": [
@@ -105,12 +105,12 @@
 					"correct": 1
 		        },
 			]
-		}
-,
-{
-	"questions" : [
+		},
+
+		{
+		"questions" : [
 		        {
-					"question": "30 chia 1/2 và cộng thêm 10, bằng bao nhiêu?",
+				"question": "30 chia 1/2 và cộng thêm 10, bằng bao nhiêu?",
 		            
 				    "content": [
 				        "25",
@@ -121,7 +121,7 @@
 				    "correct": 2
 		        },
 		        {
-					"question": "Sở thú bị cháy, con gì chạy ra đầu tiên?",
+				"question": "Sở thú bị cháy, con gì chạy ra đầu tiên?",
 		            
 				    "content": [
 				        "Con Chuột",
@@ -132,12 +132,12 @@
 				    "correct": 2
 		        },
 			]
-}
-,
-{
+		},
+
+	{
 	"questions" : [
 		        {
-					"question": "Tại sao 30 người đàn ông và 2 người đàn bà đánh nhau tán loạn?",
+				"question": "Tại sao 30 người đàn ông và 2 người đàn bà đánh nhau tán loạn?",
 		            
 				    "content": [
 				        "Bàn cãi",
@@ -148,7 +148,7 @@
 				    "correct": 2
 		        },
 		        {
-					"question": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?",
+				"question": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?",
 		            
 				    "content": [
 				        "Gỗ",
@@ -159,10 +159,10 @@
 				    "correct": 3
 		        }
 			]
-		}
-,
-{
-	"questions" : [
+		}.
+
+	{
+		"questions" : [
 		        {
 		            "question" : "question": "Thành phần chính trong bầu khí quyển của Sao Hỏa là khí …..",
 		            "content": [
@@ -184,9 +184,9 @@
 		            "correct" : 1
 		        }
 			]
-		}
-,
-{
+		},
+
+	{
 	"questions" : [
 		        {
 		            "question" : "Nhào lộn, tung hứng hay ảo thuật thuộc bộ môn nghệ thuật nào?",
