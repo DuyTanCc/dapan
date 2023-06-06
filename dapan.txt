@@ -22,8 +22,10 @@
 		            ],
 		            "correct" : 0
 		        },
-		        {
-		            "question" : "Có một tàu điện đi về hướng nam. Gió hướng tây bắc. Vậy khói từ con tàu sẽ theo hướng nào?",
+			]
+		},
+		{
+		    "question" : "Có một tàu điện đi về hướng nam. Gió hướng tây bắc. Vậy khói từ con tàu sẽ theo hướng nào?",
 		            "content" : [
 		                "Hướng Nam",
 		                "Hướng Bắc",
@@ -33,6 +35,7 @@
 		            "correct" : 3
 		        },
 		        {
+		            
 		            "question" : "Có 1 đàn chim đậu trên cành, người thợ săn bắn cái rằm. Hỏi chết mấy con?",
 		            "content" : [
 		                "15",
@@ -52,108 +55,160 @@
 		            ],
 		            "correct" : 1
 		        },
-				{
-				    "correct": 3,
+			]
+}
+,
+{
+	"questions" : [
+		        {
+				    "question": "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?"
 				    "content": [
 				        "Vào goal",
 				        "Vào góc goal",
 				        "Vào thủ môn",
 				        "Vào bóng"
 				    ],
-				    "question": "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào đâu?"
-				},
-				{
-				    "correct": 3,
-				    "content": [
+					"correct": 3
+		        },
+		        {
+		             "question": "Nắng ba năm ta chưa hề bỏ bạn? Mưa một ngày bạn lỡ nào bỏ tôi?",
+		            "content": [
 				        "Bạn bè",
 				        "Cái ô",
 				        "Cái giày",
 				        "Cái bóng"
-				    ],
-				    "question": "Nắng ba năm ta chưa hề bỏ bạn? Mưa một ngày bạn lỡ nào bỏ tôi?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
+		            ],
+		             "correct": 3
+		        },
+			]
+		},
+		{
+	"questions" : [
+		        {
+		            "question": "Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi và tại sao bà ấy chết?",
+		                "content": [
 				        "73",
 				        "37",
 				        "89",
 				        "98"
-				    ],
-				    "question": "Bà đó bả chết bả bay lên trời. Hỏi bà ấy chết năm bao nhiêu tuổi và tại sao bà ấy chết?"
-				},
-				{
-				    "correct": 1,
+		            ],
+		            "correct": 0
+		        },
+		        {
+		             "question": "Bạn làm việc gì đầu tiên mỗi buổi sáng?",
 				    "content": [
 				        "Ăn cơm",
 				        "Mở mắt",
 				        "Đánh răng",
 				        "Ngáp ngủ"
 				    ],
-				    "question": "Bạn làm việc gì đầu tiên mỗi buổi sáng?"
-				},
-				{
-				    "correct": 2,
+					"correct": 1
+		        },
+			]
+		}
+,
+{
+	"questions" : [
+		        {
+					"question": "30 chia 1/2 và cộng thêm 10, bằng bao nhiêu?",
+		            
 				    "content": [
 				        "25",
 				        "60",
 				        "70",
 				        "45"
 				    ],
-				    "question": "30 chia 1/2 và cộng thêm 10, bằng bao nhiêu?"
-				},
-				{
-				    "correct": 2,
+				    "correct": 2
+		        },
+		        {
+					"question": "Sở thú bị cháy, con gì chạy ra đầu tiên?",
+		            
 				    "content": [
 				        "Con Chuột",
 				        "Con Chim",
 				        "Con Người",
 				        "Con rắn"
 				    ],
-				    "question": "Sở thú bị cháy, con gì chạy ra đầu tiên?"
-				},
-				{
-				    "correct": 2,
+				    "correct": 2
+		        },
+			]
+}
+,
+{
+	"questions" : [
+		        {
+					"question": "Tại sao 30 người đàn ông và 2 người đàn bà đánh nhau tán loạn?",
+		            
 				    "content": [
 				        "Bàn cãi",
 				        "Mâu thuẫn",
 				        "Đánh cờ",
 				        "Đánh nhau"
 				    ],
-				    "question": "Tại sao 30 người đàn ông và 2 người đàn bà đánh nhau tán loạn?"
-				},
-				{
-				    "correct": 3,
+				    "correct": 2
+		        },
+		        {
+					"question": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?",
+		            
 				    "content": [
 				        "Gỗ",
 				        "Keo",
 				        "Nhựa",
 				        "Than"
 				    ],
-				    "question": "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?"
-				},
-				{
-				    "correct": 0,
-				    "content": [
+				    "correct": 3
+		        }
+			]
+		}
+,
+{
+	"questions" : [
+		        {
+		            "question" : "question": "Thành phần chính trong bầu khí quyển của Sao Hỏa là khí …..",
+		            "content": [
 				        "CO2",
 				        "H2O",
 				        "H2Cl",
 				        "CO2H"
-				    ],
-				    "question": "Thành phần chính trong bầu khí quyển của Sao Hỏa là khí ….."
-				},
-				{
-				    "correct": 1,
-				    "content": [
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "Công thức hoá học của Oxi già là gì ?",
+		            "content": [
 				        "O2",
 				        "H2O2",
 				        "O3",
 				        "H2O"
-				    ],
-				    "question": "Công thức hoá học của Oxi già là gì ?"
-				}
-		    ]
+		            ],
+		            "correct" : 1
+		        }
+			]
 		}
-		
+,
+{
+	"questions" : [
+		        {
+		            "question" : "Nhào lộn, tung hứng hay ảo thuật thuộc bộ môn nghệ thuật nào?",
+		            "content" : [
+		                "Chèo",
+		                "Tuồng",
+		                "Xiếc",
+		                "Ca trù"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Đâu là tên một loại bệnh trên cây lúa?",
+		            "content" : [
+		                "Đạo ôn",
+		                "Đạo lí",
+		                "Đạo tráng",
+		                "Đạo hạnh"
+		            ],
+		            "correct" : 0
+		        }
+			]
+		}
 	]
 }
