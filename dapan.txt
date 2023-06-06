@@ -80,7 +80,7 @@
 		                "Hopscotch"
 		            ],
 		            "correct" : 0
-		        },
+		        }
 		        
 		    
 		
