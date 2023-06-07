@@ -302,7 +302,7 @@
 				         "Tim",
 				        "Phổi",
 				        "Cơ",
-				        "mạch"
+				        "Mạch"
 				    ],
 				    "question": "Con gì còn đập thì sống, không đập thì chết?"
 				}
@@ -323,7 +323,7 @@
 		        {
 		            "question" : "Có con chuột lại cực kỳ sợ mèo. Con chuột nào vậy?",
 		            "content" : [
-		                "Chuột hamster",
+		                "Chuột Hamster",
 		                "Chuột nào cũng sợ",
 		                "Chuột cống",
 		                "Chuột đồng"
@@ -374,7 +374,7 @@
 				    "correct": 0,
 				    "content": [
 				        "Bàn chân",
-		                	"BÀn tay",
+		                	"Bàn tay",
 		                	"Bàn ghế",
 		                	"Bàn bóng"
 				    ],
@@ -393,7 +393,7 @@
 				{
 				    "correct": 2,
 				    "content": [
-				        "miệng",
+				        "Miệng",
 		                	"Chân",
 		                	"Tay phải",
 		                	"Tay trái"
@@ -416,7 +416,7 @@
 				        "King hôn",
 		                	"Thần hôn",
 		                	"Hoàng hôn",
-		                	"tiên hôn"
+		                	"Tiên hôn"
 				    ],
 				    "question": "Vua hôn gọi là gì? "
 				},
@@ -444,16 +444,16 @@
 				    "correct": 1,
 				    "content": [
 				        "Ngĩa địa",
-		                	"ở Mỹ",
+		                	"Ở Mỹ",
 		                	"Nhà sơn",
-		                	"Ở giũa"
+		                	"Ở giữa"
 				    ],
 				    "question": "Bên trái đường có một căn nhà xanh, bên phải đường có một căn nhà đỏ. Vậy, nhà trắng ở đâu?"
 				},
 				{
 				    "correct": 1,
 				    "content": [
-				        "nịt",
+				        "Nịt",
 		                	"Đánh răng",
 		                	"Gậy",
 		                	"Chổi"
@@ -489,8 +489,8 @@
 		            "content" : [
 		                "Áo",
 		                "Quần",
-		                "ống hút",
-		                "sáo"
+		                "Ống hút",
+		                "Sáo"
 		            ],
 		            "correct" : 0
 		        },
@@ -520,7 +520,7 @@
 				       "Tàu",
 		                	"Cái bếp",
 		                	"Con người",
-		                	"đèn"
+		                	"Đèn"
 				    ],
 				    "question": "Con gì ăn lửa với nước than?"
 				},
@@ -578,9 +578,9 @@
 				    "correct": 2,
 				    "content": [
 				        "Tiền",
-		                	"đồ",
+		                	"Đồ",
 		                	"Lời cảm ơn",
-		                	"xe"
+		                	"Xe"
 				    ],
 				    "question": "Cái gì bạn không mượn mà trả?"
 				},
@@ -610,7 +610,7 @@
 				       "Bằng nhau",
 		                	"Sắt",
 		                	"Bông",
-		                	"gần bằng nhau"
+		                	"Gần bằng nhau"
 				    ],
 				    "question": "1 kg bông gòn và 1 kg sắt, kg nào nặng hơn?"
 				}
