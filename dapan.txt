@@ -220,7 +220,7 @@
 				    "question": "What is the range of missile 'Akash'?"
 				}
 		    ]
-		},
+		}
 
 	]
 }
